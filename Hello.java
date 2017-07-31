@@ -1,6 +1,6 @@
 package sample;
 
-public class hhhh {
+public class Hello {
 
 	/**
 	 * @param args
